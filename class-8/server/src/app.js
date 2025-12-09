@@ -21,6 +21,11 @@ const todos = [
     task: 'Learn React js',
     completed: false
 },
+{
+    id: new Date().getTime(),
+    task: 'Learn MongoDB',
+    completed: false
+},
 
 ]
 
